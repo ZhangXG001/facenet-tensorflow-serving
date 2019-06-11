@@ -1,6 +1,7 @@
 # facenet-tensorflow-serving
 the usage of facenet with tensorflow serving & docker<br> 
-usage<br> 
+
+##usage<br> 
 step1<br> 
 download the pre-traind model of facenet from https://github.com/davidsandberg/facenet<br> 
 step2<br> 
