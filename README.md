@@ -1,9 +1,9 @@
 # facenet-tensorflow-serving
 the usage of facenet with tensorflow serving & docker<br> 
-##usage<br> 
-###step1<br> 
+usage<br> 
+step1<br> 
 download the pre-traind model of facenet from https://github.com/davidsandberg/facenet<br> 
-###step2<br> 
+step2<br> 
 change the model to .pb file (tensorflow serving)<br> 
 >>2.1<br> 
 >>change the pre-traind model to .ckpt file <br> 
@@ -11,9 +11,3 @@ change the model to .pb file (tensorflow serving)<br>
 >>change the .ckpt file to .pb file<br> 
 step3<br>
 install docekr(ubuntu16.04) and serving<br>
-    #一级标题  
-    ##二级标题  
-    ###三级标题  
-    ####四级标题  
-    #####五级标题  
-    ######六级标题  
